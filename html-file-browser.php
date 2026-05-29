@@ -16,7 +16,7 @@ define( 'HFB_PLUGIN_DIR',  plugin_dir_path( __FILE__ ) );
 define( 'HFB_PLUGIN_URL',  plugin_dir_url( __FILE__ ) );
 define( 'HFB_DIST_DIR',    HFB_PLUGIN_DIR . 'dist/' );
 define( 'HFB_DIST_URL',    HFB_PLUGIN_URL . 'dist/' );
-define( 'HFB_SLUG',        'html-pages' );   // URL prefix: /html-pages/filename
+define( 'HFB_SLUG',        'wp-content/plugins/server/' );   // URL prefix: /html-pages/filename
 
 /* ─────────────────────────────────────────────
    1.  REWRITE RULES
